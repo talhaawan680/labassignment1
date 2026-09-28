@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "Islamabad Weather Station",
+        "city": "Islamabad",
+        "temperature": 27.0,
+        "rainfall": 2.4,
+        "lat": 33.6167,
+        "lon": 73.1,
+        "id": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1,
+          33.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "name": "Lahore Weather Station",
+        "city": "Lahore",
+        "temperature": 31.0,
+        "rainfall": 1.8,
+        "lat": 31.52,
+        "lon": 74.4,
+        "id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4,
+          31.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "name": "Karachi Weather Station",
+        "city": "Karachi",
+        "temperature": 29.0,
+        "rainfall": 0.4,
+        "lat": 24.9,
+        "lon": 67.1,
+        "id": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.1,
+          24.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "name": "Peshawar Weather Station",
+        "city": "Peshawar",
+        "temperature": 30.0,
+        "rainfall": 1.2,
+        "lat": 34.0,
+        "lon": 71.5,
+        "id": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5,
+          34.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "name": "Quetta Weather Station",
+        "city": "Quetta",
+        "temperature": 24.0,
+        "rainfall": 0.8,
+        "lat": 30.25,
+        "lon": 66.95,
+        "id": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.95,
+          30.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "name": "Multan Weather Station",
+        "city": "Multan",
+        "temperature": 34.0,
+        "rainfall": 0.5,
+        "lat": 30.2,
+        "lon": 71.45,
+        "id": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45,
+          30.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "name": "Faisalabad Weather Station",
+        "city": "Faisalabad",
+        "temperature": 32.0,
+        "rainfall": 1.5,
+        "lat": 31.42,
+        "lon": 73.1,
+        "id": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1,
+          31.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "name": "Rawalpindi Weather Station",
+        "city": "Rawalpindi",
+        "temperature": 28.0,
+        "rainfall": 2.8,
+        "lat": 33.6,
+        "lon": 73.05,
+        "id": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05,
+          33.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "name": "Gujranwala Weather Station",
+        "city": "Gujranwala",
+        "temperature": 30.0,
+        "rainfall": 2.0,
+        "lat": 32.15,
+        "lon": 74.2,
+        "id": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2,
+          32.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "name": "Sialkot Weather Station",
+        "city": "Sialkot",
+        "temperature": 29.0,
+        "rainfall": 2.5,
+        "lat": 32.5,
+        "lon": 74.53,
+        "id": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.53,
+          32.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "name": "Hyderabad Weather Station",
+        "city": "Hyderabad",
+        "temperature": 31.0,
+        "rainfall": 0.7,
+        "lat": 25.4,
+        "lon": 68.37,
+        "id": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.37,
+          25.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "name": "Sukkur Weather Station",
+        "city": "Sukkur",
+        "temperature": 33.0,
+        "rainfall": 0.3,
+        "lat": 27.7,
+        "lon": 68.85,
+        "id": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.85,
+          27.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "name": "Abbottabad Weather Station",
+        "city": "Abbottabad",
+        "temperature": 23.0,
+        "rainfall": 3.2,
+        "lat": 34.17,
+        "lon": 73.23,
+        "id": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23,
+          34.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "name": "Bahawalpur Weather Station",
+        "city": "Bahawalpur",
+        "temperature": 33.0,
+        "rainfall": 0.6,
+        "lat": 29.4,
+        "lon": 71.68,
+        "id": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.68,
+          29.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "name": "Gwadar Weather Station",
+        "city": "Gwadar",
+        "temperature": 28.0,
+        "rainfall": 0.2,
+        "lat": 25.12,
+        "lon": 62.33,
+        "id": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.33,
+          25.12
+        ]
+      }
+    }
+  ]
+}
